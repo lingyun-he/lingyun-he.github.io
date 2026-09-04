@@ -17,6 +17,11 @@ The Pennsylvania State University, USA, Aug 2021 – Aug 2026
 
 
 ## Publications
+### 2026
+
+**Cognitive Modeling of Typing: Comparing Typing Layouts Using Motor and Visual Attention Models**  
+Lingyun He; Farnaz Tehranchi  
+24th International Conference on Cognitive Modeling (ICCM 2026), accepted as a poster
 
 ### 2025
 
@@ -33,7 +38,7 @@ DOI: 10.1017/pds.2025.10154
 ### 2024
 
 **Cognitive models for abacus gesture learning**
-Lingyun He; Lee Fleming; Guang-Cheng Li; Farnaz Tehranchi
+Lingyun He; Duk Hee Ka; Md Ehtesham-Ul-Haque; Syed Masum Billah; Farnaz Tehranchi
 Proceedings of the 46th Annual Meeting of the Cognitive Science Society
 [PDF](https://escholarship.org/uc/item/6mk359vh)
 
